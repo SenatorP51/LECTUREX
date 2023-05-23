@@ -1,0 +1,2 @@
+# LECTUREX
+daj spokuj
