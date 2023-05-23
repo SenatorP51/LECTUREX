@@ -1,2 +1,3 @@
-# LECTUREX
-daj spokuj
+# Laboratorium
+
+GitHub Actions - przeglad podstawowych rozwiazan
